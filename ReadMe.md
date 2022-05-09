@@ -1,6 +1,6 @@
 # Read Me Template
 
-![Project Image](BleScanner.jpg)
+![Project Image](BleScanner1.jpg)
 > This is a ReadMe template to help save you time and effort.
 
 ---
