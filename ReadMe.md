@@ -50,7 +50,7 @@ https://punchthrough.com/android-ble-guide/
 https://www.youtube.com/watch?v=zeN88yh7YdY
 
 https://www.youtube.com/watch?v=Y2cEbZw_R6M&list=PLFiLQ00mrKN2H_RtrY5Ady_tCL2KD0Bq-
----
+
 
 
 
