@@ -1,48 +1,40 @@
 # Read Me Template
 
 ![Project Image](BleScanner1.jpg)
-> This is a ReadMe template to help save you time and effort.
+BLE Scanner
 
 ---
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
 - [How To Use](#how-to-use)
 - [References](#references)
-- [License](#license)
 - [Author Info](#author-info)
 
 ---
 
 ## Description
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+This project implements bluetooth scanning using Bluetooth low energy signals.
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- Bluetooth
+- Location
 
 [Back To The Top](#read-me-template)
 
 ---
-
-## How To Use
 
 #### Installation
-
-
-
-#### API Reference
-
-```html
-    <p>dummy code</p>
-```
-[Back To The Top](#read-me-template)
+You will need a phycial device to scan real time nearby ble devices. After installing Application, make sure you have given bluetooth and location permission to the app to make sure it works.
 
 ---
+
+### ScreenShots
+![Scanning](Scan.jpg)
+![UUID](UUID.PNG)
 
 ## References
 [Back To The Top](#read-me-template)
