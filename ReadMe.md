@@ -1,6 +1,6 @@
 # Read Me Template
 
-![Project Image](https://is4-ssl.mzstatic.com/image/thumb/Purple49/v4/3c/15/b1/3c15b10a-3cd9-f4cc-5777-34ee9a32f975/source/512x512bb.jpg)
+![Project Image](BleScanner.jpg)
 > This is a ReadMe template to help save you time and effort.
 
 ---
