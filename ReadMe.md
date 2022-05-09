@@ -1,6 +1,6 @@
 # Read Me Template
 
-![Project Image](BleScanner1.jpg)
+![Project Image](BleScanner.jpg)
 BLE Scanner
 
 ---
