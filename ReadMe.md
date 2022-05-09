@@ -34,7 +34,11 @@ You will need a phycial device to scan real time nearby ble devices. After insta
 
 ### ScreenShots
 ![Scanning](Scan.jpg)
+Scan result on a Android Phone
+
+
 ![UUID](UUID.PNG)
+Name and UUID of nearby Devices
 
 ## References
 [Back To The Top](#read-me-template)
